@@ -206,7 +206,11 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
+<<<<<<< HEAD
     height: 20	50px;
+=======
+    height: 2050px;
+>>>>>>> 0773ee42d26eee5b30c3827fe5698cd7c163a609
     background-color: white;
 
 }
